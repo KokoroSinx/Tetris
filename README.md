@@ -7,3 +7,4 @@
 ## 消除
 
 ## END
+![image](https://github.com/KokoroSinx/Tetris/blob/main/over.png?raw=true)
