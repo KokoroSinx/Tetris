@@ -1,0 +1,12 @@
+﻿  main.cpp
+  俄罗斯方块.cpp
+D:\VC++项目\SFMLTest1\SFMLTest1\俄罗斯方块.cpp(37,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VC++项目\SFMLTest1\SFMLTest1\俄罗斯方块.cpp(49,33): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VC++项目\SFMLTest1\SFMLTest1\俄罗斯方块.cpp(71,65): warning C4305: “=”: 从“double”到“float”截断
+D:\VC++项目\SFMLTest1\SFMLTest1\俄罗斯方块.cpp(125,40): warning C4305: “=”: 从“double”到“float”截断
+D:\VC++项目\SFMLTest1\SFMLTest1\俄罗斯方块.cpp(136,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\VC++项目\SFMLTest1\SFMLTest1\俄罗斯方块.cpp(136,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\VC++项目\SFMLTest1\SFMLTest1\俄罗斯方块.cpp(144,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\VC++项目\SFMLTest1\SFMLTest1\俄罗斯方块.cpp(144,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“sfmlwindow-d.lib”

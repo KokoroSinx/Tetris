@@ -1,0 +1,8 @@
+﻿  俄罗斯方块.cpp
+d:\vc++项目\sfmltest1\sfmltest1\俄罗斯方块.cpp(9): warning C4305: “初始化”: 从“double”到“float”截断
+d:\vc++项目\sfmltest1\sfmltest1\俄罗斯方块.cpp(10): warning C4305: “初始化”: 从“double”到“float”截断
+d:\vc++项目\sfmltest1\sfmltest1\俄罗斯方块.cpp(172): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vc++项目\sfmltest1\sfmltest1\俄罗斯方块.cpp(181): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vc++项目\sfmltest1\sfmltest1\俄罗斯方块.cpp(234): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  SFMLTest1.vcxproj -> D:\VC++项目\SFMLTest1\Debug\SFMLTest1.exe
+  SFMLTest1.vcxproj -> D:\VC++项目\SFMLTest1\Debug\SFMLTest1.pdb (Full PDB)
